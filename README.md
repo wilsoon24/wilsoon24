@@ -6,7 +6,9 @@
 <p align="center">
   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="200" />
 </p>
-
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 #  About Me:
 
