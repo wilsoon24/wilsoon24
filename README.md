@@ -1,12 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=900&lines=Hallo+Welcome+to+my+GitHub!;I'm+Gustav+Maulana;Fullstack+Developer+%26+Tech+Enthusiast" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=900&lines=Hallo+Welcome+to+my+GitHub!;I'm+Wilsoon+a.k.a+Gustav;Fullstack+Developer+%26+Tech+Enthusiast" alt="Typing SVG" />
 </div>
+
 <p align="center">
   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="200" />
 </p>
 
 
-# 💫 About Me:
+#  About Me:
 
 💻 **Coding & Cybersecurity**  
 I have a strong interest in coding and cybersecurity  
